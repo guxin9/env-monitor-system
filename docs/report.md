@@ -86,7 +86,7 @@ env-monitor-system/
 ### 6.2 版本控制
 - 使用 Git 进行版本管理
 - 通过 GitHub 进行代码审查
-- 共完成 X 次 Pull Request
+- 共完成 4 次 Pull Request
 
 ## 七、总结与展望
 
